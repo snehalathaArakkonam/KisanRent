@@ -1,9 +1,7 @@
-# Team-Gryffindor
-# Smart India Hackathon 2022
-![SIH2022](https://user-images.githubusercontent.com/55245862/156772177-691163b0-a0b0-4102-a945-37b4f281e4c4.jpeg)
-## Problem Statement Code: 
-> #### DB887 (Ministry of Skill Development and Entrepreneurship)
-> At a given time farmer equipment are idle during non-seasons. A platform that allows farmers to rent farming equipment for less during the off-season. A simple aggregation platform with call center support can function as booking equipment’s will help farmers make additional income.
+
+## KISAN RENT
+
+PROBLEM STATEMENT : At a given time farmer equipment are idle during non-seasons. A platform that allows farmers to rent farming equipment for less during the off-season. A simple aggregation platform with call center support can function as booking equipment’s will help farmers make additional income.
 
 ## Features
 
@@ -64,31 +62,6 @@ $ npm i
 $ npm start
 ```
 
-## Team Members:
-
-> "Team Members"
-
-| S.No. | Name | Role | GitHub Username:octocat: |
-| --------------- | --------------- | --------------- | --------------- |
-| 1. | Rudrakshi (Team Leader) | Backend Development| [@rudrakshi99](https://github.com/rudrakshi99)  |
-| 2. | Sarthak Shukla | Frontend Development | [@sarthakshukla1316](https://github.com/sarthakshukla1316) |
-| 3. | Suyash Rastogi | Frontend Development | [@suyashrastogi7](https://github.com/suyashrastogi7) |
-| 4. | Anmol Srivastava | Backend Development| [@anmolsrivastava1](https://github.com/anmolsrivastava1)  |
-| 5. | Parth Sharma | ML Engineer | [@ParthSharmaT](https://github.com/ParthSharmaT)  |
-| 6. | Kushal Gautam | Product Designer | [@kushalgautam](https://github.com/kushalgautam)  |
-
-## Maintainers✨
-
-<table>
-  <tbody><tr>
-    <td align="center"><a href="https://github.com/rudrakshi99"><img alt="" src="https://avatars.githubusercontent.com/rudrakshi99" width="100px;"><br><sub><b>Rudrakshi</b></sub></a><br><a href="https://github.com/rudrakshi99/SIH2022/commits/backend?author=rudrakshi99" title="Code">💻</a></td>
-    <td align="center"><a href="https://github.com/sarthakshukla1316"><img alt="" src="https://avatars.githubusercontent.com/sarthakshukla1316" width="100px;"><br><sub><b>Sarthak Shukla </b></sub></a><br><a href="https://github.com/rudrakshi99/SIH2022/commits?author=sarthakshukla1316" title="Code">💻</a></td>
-    <td align="center"><a href="https://github.com/anmolsrivastava1"><img alt="" src="https://avatars.githubusercontent.com/anmolsrivastava1" width="100px;"><br><sub><b>Anmol Srivastava </b></sub></a><br><a href="https://github.com/rudrakshi99/SIH2022/commits/backend?author=anmolsrivastava1" title="Code">💻</a></td>
-    <td align="center"><a href="https://github.com/ParthSharmaT"><img alt="" src="https://avatars.githubusercontent.com/ParthSharmaT" width="100px;"><br><sub><b>Parth Sharma </b></sub></a><br><a href="https://github.com/rudrakshi99/SIH2022/commits/vociecallapi" title="Code">💻</a></td>
-    <td align="center"><a href="https://github.com/kushalgautam"><img alt="" src="https://avatars.githubusercontent.com/kushalgautam" width="100px;"><br><sub><b>Kushal Gautam </b></sub></a><br><a href="https://github.com/rudrakshi99/SIH2022/" title="Code">💻</a></td>
-    <td align="center"><a href="https://github.com/suyashrastogi7"><img alt="" src="https://avatars.githubusercontent.com/suyashrastogi7" width="100px;"><br><sub><b>Suyash Rastogi </b></sub></a><br><a href="https://github.com/rudrakshi99/SIH2022/commits/master?author=suyashrastogi7" title="Code">💻</a></td>
-  </tr>
-</tbody></table>
 
 # License :memo:
 
