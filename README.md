@@ -54,8 +54,3 @@ $ npm start
 # License :memo:
 
 This project follows the [MIT License](https://choosealicense.com/licenses/mit/).
-
-[![Uses Git](https://forthebadge.com/images/badges/uses-git.svg)](https://github.com/rudrakshi99/SIH2022.git) 
-[![forthebadge](https://forthebadge.com/images/badges/made-with-javascript.svg)](https://github.com/rudrakshi99/SIH2022.git)
-[![forthebadge](https://forthebadge.com/images/badges/made-with-python.svg)](https://github.com/rudrakshi99/SIH2022.git)
-[![Built with love](https://forthebadge.com/images/badges/built-with-love.svg)](https://github.com/rudrakshi99/SIH2022.git) [![Built By Developers](https://forthebadge.com/images/badges/built-by-developers.svg)](https://github.com/rudrakshi99/SIH2022.git) 
